@@ -5,4 +5,4 @@
 
 This is a sample application that shows how to connect and consume both the public and private API's in C#
 
-
+For the blog post see https://serversncode.com/azure-table-storage/
